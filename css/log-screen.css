@@ -1,0 +1,15 @@
+#log_screens div.log_screen div.messages span.message {
+    color: #e0e0e0!important;
+}
+
+#log_screens div.log_screen div.messages span.message.debug {
+    color: #e0e0e0!important;
+}
+
+#log_screens div.log_screen div.messages span.message.warn {
+    color: #FFC080!important;
+}
+
+#log_screens div.log_screen div.messages span.message.error {
+    color: #FF8080!important;
+}
